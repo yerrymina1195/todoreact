@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.fez h1{
+  text-decoration: line-through !important;
+  color: #e7f3ffa7!important;
+}
+
+
 
 .App-link {
   color: #61dafb;
